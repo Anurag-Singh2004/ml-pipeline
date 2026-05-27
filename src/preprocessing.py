@@ -197,4 +197,4 @@ def run_titanic_pipeline(filepath):
     print("="*40)
     print("Pipeline complete. Ready for modeling")
 
-    return X_test, X_test, y_train, y_test
+    return X_train, X_test, y_train, y_test
