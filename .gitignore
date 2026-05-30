@@ -9,3 +9,4 @@ __pycache__/
 *.log
 mlruns/
 models/*.pkl
+mlflow.db
